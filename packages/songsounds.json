@@ -1,0 +1,9 @@
+{
+  "name": "songsounds",
+  "mavenUrl": "https://jitpack.io/",
+  "group": "io.github.ytg1234",
+  "artifact": "songsounds",
+  "configurations": [
+    "modImplementation"
+  ]
+}
