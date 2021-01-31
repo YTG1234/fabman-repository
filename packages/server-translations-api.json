@@ -1,0 +1,10 @@
+{
+  "name": "server-translations-api",
+  "mavenUrl": "https://maven.nucleoid.xyz/",
+  "group": "fr.catcore",
+  "artifact": "server-translations-api",
+  "configurations": [
+    "modImplementation",
+    "include"
+  ]
+}
