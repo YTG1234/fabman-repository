@@ -1,0 +1,10 @@
+{
+  "name": "mm",
+  "mavenUrl": "https://jitpack.io/",
+  "group": "com.github.Chocohead",
+  "artifact": "Fabric-ASM",
+  "configurations": [
+    "modImplementation",
+    "include"
+  ]
+}
