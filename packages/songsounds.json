@@ -1,0 +1,9 @@
+{
+  "name": "songsounds",
+  "mavenUrl": "https://ytg1234.github.io/maven",
+  "group": "io.github.ytg1234",
+  "artifact": "songsounds",
+  "configurations": [
+    "modImplementation"
+  ]
+}
